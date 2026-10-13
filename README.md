@@ -27,4 +27,5 @@ This repository is being updated throughout the training program with daily Pyth
 - **Practice Day 2 – Python Exercises**
 - **Practice Day 3 – Python Exercises**
 - **Practice Day 4 – Python Exercises**
-
+- **Practice Day 5 – Python Exercises**
+- **Practice Day 6 – Python Exercises**
